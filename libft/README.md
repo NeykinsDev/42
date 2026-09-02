@@ -14,3 +14,7 @@ Functions reimplement from `<ctype.h>`, `<string.h>`, `<strings.h>`, and `<stdli
 * `ft_isalnum` - Test for an alphanumeric character.
 * `ft_isascii` - Test for a 7-bit ASCII character.
 * `ft_isprint` - Test for any printable character.
+**Conversion & Case:**
+* `ft_toupper` - Convert lowercase letter to uppercase
+* `ft_tolower` - Convert uppercase letter to lower
+* `ft_atoi` - Convert ASCII to integer
